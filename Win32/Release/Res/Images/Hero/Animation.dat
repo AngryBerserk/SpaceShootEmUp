@@ -1,0 +1,28 @@
+s=l1.png
+e=l2.png
+f=tl8.png
+f=tl7.png
+f=tl6.png
+f=tl5.png
+f=tl4.png
+f=tl3.png
+f=tl2.png
+f=tl1.png
+s=1.png
+e=2.png
+f=tr1.png
+f=tr2.png
+f=tr3.png
+f=tr4.png
+f=tr5.png
+f=tr6.png
+f=tr7.png
+f=tr8.png
+s=r1.png
+e=r2.png
+//static animation
+a=10
+//right animation
+a=20
+//left animation
+a=0
